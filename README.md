@@ -1,7 +1,7 @@
 ## How to use
 
 Contentfulのマークダウンエディタで執筆した記事を、[Zenn](https://zenn.dev/)風に出力してプレビューできるContentful Appです。  
-[zenn-editor](https://github.com/zenn-dev/zenn-editor)のパッケージをベースに作っており、zenn独自記法を含むZennのスタイリングが適用されます。  
+[zenn-editor](https://github.com/zenn-dev/zenn-editor)のパッケージをベースに作っており、Zenn独自記法を含むZennのスタイリングが適用されます。  
 Contentful上で動作するため、フロントエンドのフレームワークの影響は受けません。
 
 https://github.com/xxbxxqxx/contentful-app-zenn-preview/assets/9583157/7dbce5b8-f861-4440-9635-0cff8560458b
