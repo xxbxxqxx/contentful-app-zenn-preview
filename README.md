@@ -4,7 +4,8 @@ Contentfulのマークダウンエディタで執筆した記事を、[Zenn](htt
 [zenn-editor](https://github.com/zenn-dev/zenn-editor)のパッケージをベースに作っており、zenn独自記法を含むZennのスタイリングが適用されます。  
 Contentful上で動作するため、フロントエンドのフレームワークの影響は受けません。
 
-![Screen recording](https://raw.github.com/wiki/xxbxxqxx/contentful-app-zenn-preview/images/screen-recording.gif)
+https://github.com/xxbxxqxx/contentful-app-zenn-preview/assets/9583157/7dbce5b8-f861-4440-9635-0cff8560458b
+
 
 ## 使い方
 
